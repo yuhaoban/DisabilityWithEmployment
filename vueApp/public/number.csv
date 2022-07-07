@@ -1,0 +1,256 @@
+id,state,year,rate
+01,Alabama,2015,40038
+02,Alaska,2015,5147
+04,Arizona,2015,54722
+05,Arkansas,2015,24541
+06,California,2015,309636
+08,Colorado,2015,43994
+09,Connecticut,2015,30183
+10,Delaware,2015,7575
+11,District of Columbia,2015,5723
+12,Florida,2015,166315
+13,Georgia,2015,80276
+15,Hawaii,2015,11754
+16,Idaho,2015,12545
+17,Illinois,2015,104728
+18,Indiana,2015,54365
+19,Iowa,2015,26365
+20,Kansas,2015,23563
+21,Kentucky,2015,37158
+22,Louisiana,2015,36560
+23,Maine,2015,11306
+24,Maryland,2015,49272
+25,Massachusetts,2015,58522
+26,Michigan,2015,82117
+27,Minnesota,2015,45251
+28,Mississippi,2015,24410
+29,Missouri,2015,51088
+30,Montana,2015,8228
+31,Nebraska,2015,15528
+32,Nevada,2015,22260
+33,New Hampshire,2015,11549
+34,New Jersey,2015,72894
+35,New Mexico,2015,15674
+36,New York,2015,164251
+37,North Carolina,2015,81951
+38,North Dakota,2015,6371
+39,Ohio,2015,98108
+40,Oklahoma,2015,30108
+41,Oregon,2015,33616
+42,Pennsylvania,2015,108573
+44,Rhode Island,2015,9046
+45,South Carolina,2015,40566
+46,South Dakota,2015,7030
+47,Tennessee,2015,54644
+48,Texas,2015,208917
+49,Utah,2015,22232
+50,Vermont,2015,5454
+51,Virginia,2015,69546
+53,Washington,2015,59181
+54,West Virginia,2015,15368
+55,Wisconsin,2015,48863
+56,Wyoming,2015,4728
+01,Alabama,2016,40062
+02,Alaska,2016,5223
+04,Arizona,2016,56265
+05,Arkansas,2016,24474
+06,California,2016,311169
+08,Colorado,2016,45008
+09,Connecticut,2016,30327
+10,Delaware,2016,7614
+11,District of Columbia,2016,5772
+12,Florida,2016,168825
+13,Georgia,2016,80784
+15,Hawaii,2016,11889
+16,Idaho,2016,12630
+17,Illinois,2016,104932
+18,Indiana,2016,54743
+19,Iowa,2016,26432
+20,Kansas,2016,23394
+21,Kentucky,2016,37020
+22,Louisiana,2016,36367
+23,Maine,2016,10714
+24,Maryland,2016,49611
+25,Massachusetts,2016,58822
+26,Michigan,2016,82682
+27,Minnesota,2016,44503
+28,Mississippi,2016,23931
+29,Missouri,2016,51334
+30,Montana,2016,8386
+31,Nebraska,2016,15466
+32,Nevada,2016,22617
+33,New Hampshire,2016,11513
+34,New Jersey,2016,72922
+35,New Mexico,2016,15730
+36,New York,2016,164873
+37,North Carolina,2016,82935
+38,North Dakota,2016,6439
+39,Ohio,2016,98120
+40,Oklahoma,2016,29950
+41,Oregon,2016,33926
+42,Pennsylvania,2016,107433
+44,Rhode Island,2016,8942
+45,South Carolina,2016,40789
+46,South Dakota,2016,6931
+47,Tennessee,2016,54973
+48,Texas,2016,211577
+49,Utah,2016,22452
+50,Vermont,2016,5516
+51,Virginia,2016,69625
+53,Washington,2016,59976
+54,West Virginia,2016,15157
+55,Wisconsin,2016,48827
+56,Wyoming,2016,4717
+01,Alabama,2017,40102
+02,Alaska,2017,5160
+04,Arizona,2017,56902
+05,Arkansas,2017,24837
+06,California,2017,312895
+08,Colorado,2017,45916
+09,Connecticut,2017,30415
+10,Delaware,2017,7587
+11,District of Columbia,2017,5760
+12,Florida,2017,171149
+13,Georgia,2017,82318
+15,Hawaii,2017,11941
+16,Idaho,2017,13154
+17,Illinois,2017,105030
+18,Indiana,2017,55157
+19,Iowa,2017,26671
+20,Kansas,2017,23982
+21,Kentucky,2017,37392
+22,Louisiana,2017,36639
+23,Maine,2017,10850
+24,Maryland,2017,49616
+25,Massachusetts,2017,59267
+26,Michigan,2017,83226
+27,Minnesota,2017,45170
+28,Mississippi,2017,24038
+29,Missouri,2017,51246
+30,Montana,2017,8450
+31,Nebraska,2017,15710
+32,Nevada,2017,23449
+33,New Hampshire,2017,11824
+34,New Jersey,2017,73538
+35,New Mexico,2017,15739
+36,New York,2017,165456
+37,North Carolina,2017,84715
+38,North Dakota,2017,6436
+39,Ohio,2017,99146
+40,Oklahoma,2017,30032
+41,Oregon,2017,34716
+42,Pennsylvania,2017,107741
+44,Rhode Island,2017,9031
+45,South Carolina,2017,41545
+46,South Dakota,2017,7156
+47,Tennessee,2017,55623
+48,Texas,2017,215177
+49,Utah,2017,23426
+50,Vermont,2017,5454
+51,Virginia,2017,70158
+53,Washington,2017,61871
+54,West Virginia,2017,15125
+55,Wisconsin,2017,49216
+56,Wyoming,2017,4682
+01,Alabama,2018,40276
+02,Alaska,2018,5290
+04,Arizona,2018,57845
+05,Arkansas,2018,25079
+06,California,2018,315731
+08,Colorado,2018,46239
+09,Connecticut,2018,30651
+10,Delaware,2018,7859
+11,District of Columbia,2018,5750
+12,Florida,2018,173977
+13,Georgia,2018,83567
+15,Hawaii,2018,12072
+16,Idaho,2018,13403
+17,Illinois,2018,105272
+18,Indiana,2018,55680
+19,Iowa,2018,26736
+20,Kansas,2018,24241
+21,Kentucky,2018,37688
+22,Louisiana,2018,36373
+23,Maine,2018,11475
+24,Maryland,2018,49974
+25,Massachusetts,2018,59959
+26,Michigan,2018,83614
+27,Minnesota,2018,46026
+28,Mississippi,2018,24202
+29,Missouri,2018,51842
+30,Montana,2018,8595
+31,Nebraska,2018,15857
+32,Nevada,2018,23995
+33,New Hampshire,2018,11861
+34,New Jersey,2018,74546
+35,New Mexico,2018,16113
+36,New York,2018,166318
+37,North Carolina,2018,86046
+38,North Dakota,2018,6475
+39,Ohio,2018,99373
+40,Oklahoma,2018,30537
+41,Oregon,2018,35440
+42,Pennsylvania,2018,109572
+44,Rhode Island,2018,8974
+45,South Carolina,2018,42123
+46,South Dakota,2018,7111
+47,Tennessee,2018,56639
+48,Texas,2018,218065
+49,Utah,2018,24083
+50,Vermont,2018,5557
+51,Virginia,2018,70636
+53,Washington,2018,63177
+54,West Virginia,2018,15451
+55,Wisconsin,2018,49950
+56,Wyoming,2018,4748
+01,Alabama,2019,41333
+02,Alaska,2019,5183
+04,Arizona,2019,59128
+05,Arkansas,2019,25231
+06,California,2019,318215
+08,Colorado,2019,47799
+09,Connecticut,2019,30424
+10,Delaware,2019,7936
+11,District of Columbia,2019,5832
+12,Florida,2019,177823
+13,Georgia,2019,84512
+15,Hawaii,2019,12135
+16,Idaho,2019,13863
+17,Illinois,2019,104839
+18,Indiana,2019,55903
+19,Iowa,2019,27080
+20,Kansas,2019,24334
+21,Kentucky,2019,38108
+22,Louisiana,2019,36770
+23,Maine,2019,11731
+24,Maryland,2019,50337
+25,Massachusetts,2019,60654
+26,Michigan,2019,84487
+27,Minnesota,2019,46693
+28,Mississippi,2019,24391
+29,Missouri,2019,52582
+30,Montana,2019,8897
+31,Nebraska,2019,16085
+32,Nevada,2019,24529
+33,New Hampshire,2019,11921
+34,New Jersey,2019,74398
+35,New Mexico,2019,16129
+36,New York,2019,168670
+37,North Carolina,2019,87246
+38,North Dakota,2019,6489
+39,Ohio,2019,100270
+40,Oklahoma,2019,30884
+41,Oregon,2019,35801
+42,Pennsylvania,2019,110109
+44,Rhode Island,2019,9076
+45,South Carolina,2019,43022
+46,South Dakota,2019,7393
+47,Tennessee,2019,57411
+48,Texas,2019,222893
+49,Utah,2019,24764
+50,Vermont,2019,5695
+51,Virginia,2019,71066
+53,Washington,2019,64963
+54,West Virginia,2019,15518
+55,Wisconsin,2019,50181
+56,Wyoming,2019,4876

@@ -1,0 +1,45 @@
+{
+ "name": "disability",
+ "children": [
+  {
+   "name": "Cognitive Difficulty",
+   "children": [
+      {"name": "Employed", "value": 130120},
+      {"name": "Unemployed", "value": 27650},
+      {"name": "Not in Labor Force", "value": 658108}
+   ]
+  },
+  {
+    "name": "Ambulatory Difficulty",
+    "children": [
+      {"name": "Employed", "value": 160213},
+      {"name": "Unemployed", "value": 18575},
+      {"name": "Not in Labor Force", "value": 1070744}
+    ]
+   },
+   {
+    "name": "Independent living difficulty",
+    "children": [
+      {"name": "Employed", "value": 77564},
+      {"name": "Unemployed", "value": 14807},
+      {"name": "Not in Labor Force", "value": 832947}
+    ]
+   },
+   {
+    "name": "Self-care difficulty",
+    "children": [
+      {"name": "Employed", "value": 34509},
+      {"name": "Unemployed", "value": 5222},
+      {"name": "Not in Labor Force", "value": 483837}
+    ]
+   },
+   {
+    "name": "Vision or hearing difficulty",
+    "children": [
+      {"name": "Employed", "value": 230387},
+      {"name": "Unemployed", "value": 17763},
+      {"name": "Not in Labor Force", "value": 694639}
+    ]
+   }
+ ]
+}
